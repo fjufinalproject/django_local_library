@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'vast-stream-49272.herokuapp.com',
+    '127.0.0.1',
 ]
 
 
