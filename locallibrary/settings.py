@@ -25,7 +25,9 @@ SECRET_KEY = 'nh38m-xe^(48u3zih-wu(ranwwxpoxxdvw_9=h$azw=bpr(dhx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://vast-stream-49272.herokuapp.com/',
+]
 
 
 # Application definition
