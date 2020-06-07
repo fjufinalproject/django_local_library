@@ -26,7 +26,7 @@ SECRET_KEY = 'nh38m-xe^(48u3zih-wu(ranwwxpoxxdvw_9=h$azw=bpr(dhx'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://vast-stream-49272.herokuapp.com/',
+    'vast-stream-49272.herokuapp.com',
 ]
 
 
